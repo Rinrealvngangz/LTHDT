@@ -1,0 +1,11 @@
+C:\Users\Tuan\Desktop\LTHDT\LTHDT\Lab2\bai3\obj\Debug\netcoreapp3.1\bai3.csprojAssemblyReference.cache
+C:\Users\Tuan\Desktop\LTHDT\LTHDT\Lab2\bai3\obj\Debug\netcoreapp3.1\bai3.AssemblyInfoInputs.cache
+C:\Users\Tuan\Desktop\LTHDT\LTHDT\Lab2\bai3\obj\Debug\netcoreapp3.1\bai3.AssemblyInfo.cs
+C:\Users\Tuan\Desktop\LTHDT\LTHDT\Lab2\bai3\bin\Debug\netcoreapp3.1\bai3.exe
+C:\Users\Tuan\Desktop\LTHDT\LTHDT\Lab2\bai3\bin\Debug\netcoreapp3.1\bai3.deps.json
+C:\Users\Tuan\Desktop\LTHDT\LTHDT\Lab2\bai3\bin\Debug\netcoreapp3.1\bai3.runtimeconfig.json
+C:\Users\Tuan\Desktop\LTHDT\LTHDT\Lab2\bai3\bin\Debug\netcoreapp3.1\bai3.runtimeconfig.dev.json
+C:\Users\Tuan\Desktop\LTHDT\LTHDT\Lab2\bai3\bin\Debug\netcoreapp3.1\bai3.dll
+C:\Users\Tuan\Desktop\LTHDT\LTHDT\Lab2\bai3\bin\Debug\netcoreapp3.1\bai3.pdb
+C:\Users\Tuan\Desktop\LTHDT\LTHDT\Lab2\bai3\obj\Debug\netcoreapp3.1\bai3.dll
+C:\Users\Tuan\Desktop\LTHDT\LTHDT\Lab2\bai3\obj\Debug\netcoreapp3.1\bai3.pdb
