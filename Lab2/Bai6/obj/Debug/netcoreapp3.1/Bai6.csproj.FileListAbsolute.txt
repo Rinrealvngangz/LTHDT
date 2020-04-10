@@ -1,0 +1,10 @@
+C:\Users\Tuan\source\repos\Bai6\bin\Debug\netcoreapp3.1\Bai6.exe
+C:\Users\Tuan\source\repos\Bai6\bin\Debug\netcoreapp3.1\Bai6.deps.json
+C:\Users\Tuan\source\repos\Bai6\bin\Debug\netcoreapp3.1\Bai6.runtimeconfig.json
+C:\Users\Tuan\source\repos\Bai6\bin\Debug\netcoreapp3.1\Bai6.runtimeconfig.dev.json
+C:\Users\Tuan\source\repos\Bai6\bin\Debug\netcoreapp3.1\Bai6.dll
+C:\Users\Tuan\source\repos\Bai6\bin\Debug\netcoreapp3.1\Bai6.pdb
+C:\Users\Tuan\source\repos\Bai6\obj\Debug\netcoreapp3.1\Bai6.AssemblyInfoInputs.cache
+C:\Users\Tuan\source\repos\Bai6\obj\Debug\netcoreapp3.1\Bai6.AssemblyInfo.cs
+C:\Users\Tuan\source\repos\Bai6\obj\Debug\netcoreapp3.1\Bai6.dll
+C:\Users\Tuan\source\repos\Bai6\obj\Debug\netcoreapp3.1\Bai6.pdb
