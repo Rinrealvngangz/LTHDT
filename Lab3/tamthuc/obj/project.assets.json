@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tuan\\Desktop\\LTHDT\\LTHDT\\Lab2\\Bai7\\Bai7.csproj",
-      "projectName": "Bai7",
-      "projectPath": "C:\\Users\\Tuan\\Desktop\\LTHDT\\LTHDT\\Lab2\\Bai7\\Bai7.csproj",
+      "projectUniqueName": "C:\\Users\\Tuan\\Desktop\\LTHDT\\LTHDT\\Lab3\\lab3\\lab3.csproj",
+      "projectName": "lab3",
+      "projectPath": "C:\\Users\\Tuan\\Desktop\\LTHDT\\LTHDT\\Lab3\\lab3\\lab3.csproj",
       "packagesPath": "C:\\Users\\Tuan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tuan\\Desktop\\LTHDT\\LTHDT\\Lab2\\Bai7\\obj\\",
+      "outputPath": "C:\\Users\\Tuan\\Desktop\\LTHDT\\LTHDT\\Lab3\\lab3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
